@@ -10,11 +10,6 @@ Also first attempt with git
 
 Basic principle is to:
 
-*Do an API search for e.g. last seven days
-*Get an Atom XMl file returned, trawl through this to build an annotated list of relevant urls for retrieval of items
-
-*Some urls returned imply further subsets of urls need to be retrieved
-
-*Use the list of urls to get and store items onto local network
+Do an API search for e.g. last seven days; Get an Atom XMl file returned, trawl through this to build an annotated list of relevant urls for retrieval of items (some urls returned imply further subsets of urls need to be retrieved); Use the list of urls to get and store items onto local network
 
 This will be mainly ANT, XPATH, XSLT
